@@ -1,0 +1,152 @@
+/*@media (max-width: 1024px) {
+	section {
+		width: 1024px;
+	}
+	.bg-image {
+		width: 900;
+	}
+	.title-container {
+		width: 10024px;
+	}
+
+	.News-container {
+		width: 10024px; 
+	}
+	.article-container {
+		width: 10024px;
+	}
+	.video-container {
+		width: 10024px;
+	} 
+	.videos-wraper {
+		justify-content: space-around;
+	}
+	.video {
+		width: 500px;
+	}
+	.News-title {
+		margin-left: 20px;
+	}
+	.article-small {
+		width: 500px;
+
+	}
+	.Nes-div {
+		width: 100px;
+	}
+
+}
+
+*/
+
+@media (max-width: 480px) {
+	.navigation {
+		display: none;
+	}
+	.header {
+		justify-content: space-between;
+	}
+	.logo {
+		margin-left: 30px;
+	}
+	.icons {
+		display: none;
+	}
+	.burger-bar {
+		display: block;
+
+	} 
+	.bg-image {
+		width: 400px;
+		height: 320px;
+		margin-left: 25px;
+	}
+	.title {
+		color: #333333;
+		font-size: 25px;
+		margin-left: -25px;
+	}
+	.videos-container {
+		justify-content: center;
+		margin-left: 10px;
+		width: 450px;
+	}
+	.videos-wraper {
+		flex-direction: column;
+		margin-top: 30px;
+		width: 98px;
+		
+	}
+	.video {
+		width: 440px;
+		margin-bottom: 20px;
+	}
+	.News-wraper {
+		flex-direction: column;
+		margin-top: 30px;
+		width: 350px;
+	}
+	.News-div {
+		margin-top: 20px;
+		margin-left: 80px;
+	}
+	.News-title {
+		margin-left: 80px;
+	}
+	.article {
+		flex-direction: column;
+	}
+	.article-small  {
+		width: 420px;
+		margin-top: 20px;
+		margin-left: 15px;
+		padding: 20px;
+	}
+	.article-title {
+		margin-left: 15px;
+	}
+	.footer-wraper {
+		flex-direction: column;
+		margin-top: 20px;
+	}
+	.footer-h4-right {
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}
+	.title-container {
+		width: 450px;
+	}
+
+	.News-container {
+		width: 450px; 
+	}
+	.article-container {
+		width: 450px;
+	} 
+	.videos-container {
+		justify-content: center;
+		margin-left: 10px;
+		width: 450px;
+	}
+
+}
+/*@media (max-width: 768px) {
+	.bg-image {
+		width: 750px;
+	}
+	.videos-wraper {
+		flex-direction: column;
+		margin-top: 35px;
+		margin-left: -25px;
+	} 
+	.video {
+		width: 700px;
+	}
+	.videos-container {
+		justify-content: center;
+		margin-left: 10px;
+		width: 450px;
+	}
+}
+
+*/
