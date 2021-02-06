@@ -41,7 +41,7 @@
 
 
 
-/*@media (max-width: 480px) {
+@media (max-width: 480px) {
 	.navigation {
 		display: none;
 	}
@@ -131,9 +131,9 @@
 		width: 450px;
 	}
 
-}*/
+}
 
-@media (max-width: 768px) {
+/*@media (max-width: 768px) {
 	.bg-image {
 		width: 700px;
 		margin-left: -125px;
@@ -232,5 +232,5 @@
 		margin-left: 10px;
 		width: 450px;
 	}
-}
+}*/
 
